@@ -111,6 +111,22 @@ the system was successfully turned ON the light during delay .
 the light automatically turned OFF during bright conditions. 
 the project achieved energy-saving functionally .
 
+## contributors 
+
+@marvellous Ahonkhai - Arduino programming and tinkercad and simulation of proteus 
+
+
+@ fagbenle Oluwateniola Oyinkansola - (https://github.com/Teni-ola08) -documentaion and reportwriting
+
+
+@ olaoluwa Daniel -(https://github.com/Mide117755) -testing and quality assurance 
+
+
+
+@ uyi donald david -(https://github.com/uyidonaldd-cpu) -presentation of matrials
+
+
+@ adeile chisom - (https://github.com/) -system design 
 
 
 
